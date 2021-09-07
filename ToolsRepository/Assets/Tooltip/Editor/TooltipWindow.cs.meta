@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 046947626edb3e6439dc5ca7bad7bba1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - TooltipCanvas: {fileID: 3292036348912614042, guid: 8564ed646f0b79a4da059ee3afbc26c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
